@@ -34,7 +34,7 @@ Here are some of the included projects:
 - HTML Page with Table of Contents  
 - Simple Image Slider (manual HTML)  
 
-…and more. :contentReference[oaicite:1]{index=1}
+
 
 ## 🛠️ What you learn / Purpose
 
@@ -43,8 +43,3 @@ Here are some of the included projects:
 - Create a simple front-end portfolio to showcase HTML knowledge. Useful for beginners learning web development basics. :contentReference[oaicite:4]{index=4}  
 - Offer a foundation for later enhancements: once basic HTML works, you can layer on CSS or JavaScript to make the pages interactive and styled. :contentReference[oaicite:5]{index=5}  
 
-## 🚀 How to use / view the projects
-
-1. Clone or download this repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
